@@ -2,13 +2,13 @@
 This reposity is for practicing the GitHub Flow 
 My name is Kristine! 
 
-###Education 
+### Education 
 Medical Laboratory Science
 Minor in Business, Certificate in Pre-Health 
 
-###Work Experience 
+### Work Experience 
 Medical Technician 
 - big impact project 1
 - big impact project 2
 
-###Projects 
+### Projects 
